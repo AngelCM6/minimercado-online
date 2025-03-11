@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos - Click Market Online</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nossos Produtos</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Frutas e Verduras</h2>
+        <ul>
+            <li>🍎 Maçã - R$ 5,00/kg</li>
+            <li>🍌 Banana - R$ 4,00/kg</li>
+        </ul>
+
+        <h2>Alimentos Não Perecíveis</h2>
+        <ul>
+            <li>🥫 Feijão - R$ 8,00</li>
+            <li>🍚 Arroz - R$ 10,00</li>
+        </ul>
+
+        <h2>Higiene e Limpeza</h2>
+        <ul>
+            <li>🧴 Shampoo - R$ 15,00</li>
+            <li>🧼 Sabão em Pó - R$ 12,00</li>
+        </ul>
+
+        <h2>Escolha a forma de recebimento</h2>
+        <form action="pedido.html" method="GET">
+            <label for="opcao-entrega">Selecione uma opção:</label><br>
+            <input type="radio" id="retirada" name="recebimento" value="retirada" required>
+            <label for="retirada">Retirada no local</label><br>
+            <input type="radio" id="entrega" name="recebimento" value="entrega">
+            <label for="entrega">Entrega em domicílio</label><br><br>
+
+            <button type="submit" class="btn">Finalizar Pedido</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 ClicK Market Online - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
