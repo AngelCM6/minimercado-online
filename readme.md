@@ -18,13 +18,13 @@ Otimizar processos, utilizando a plataforma online para agilizar o recebimento d
 
 Já as metas:
 
-Aumentar as vendas em X% nos primeiros Y meses de operação online;
-Conquistar Z novos clientes online nos primeiros W meses;
-Atingir uma taxa de conversão de A% de visitantes do site em clientes pagantes em B meses;
-Alcançar um valor médio de pedido online de R$ C em D meses;
-Obter uma avaliação média de satisfação dos clientes online de E (em uma escala de 1 a 5) após F meses;
-Reduzir o tempo médio de entrega para G horas/dias em H meses;
-Aumentar o tráfego orgânico para o site em I% em J meses, indicando maior visibilidade da marca online;
-Alcançar uma taxa de recompra de K% dos clientes online em L meses.
+Aumentar as vendas em (%) nos primeiros meses de operação online;
+Conquistar novos clientes online nos primeiros (x) meses;
+Atingir uma taxa de conversão de (%) de visitantes do site em clientes pagantes em (y) meses;
+Alcançar um valor médio de pedido online de R$ (x) em (y) meses;
+Obter uma avaliação média de satisfação dos clientes online (em uma escala de 1 a 5) após (y) meses;
+Reduzir o tempo médio de entrega;
+Aumentar o tráfego orgânico para o site, indicando maior visibilidade da marca online;
+Alcançar uma taxa de recompra de (%) dos clientes online.
 
 O minimercado online é mais que uma loja virtual, é um parceiro no seu dia a dia, te oferecendo praticidade, variedade e aquele toque de cuidado que faz toda a diferença. Vem descobrir um jeito mais inteligente e gostoso de fazer suas compras! Seu carrinho te espera! 🛒🛍️😉
