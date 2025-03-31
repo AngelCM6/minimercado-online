@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Resumo do Pedido</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pedido Realizado com Sucesso!</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Resumo do Pedido</h2>
+        <p>Sua escolha de entrega: <strong id="tipoEntrega"></strong></p>
+        <p>Nosso time já está preparando tudo para você 😉</p>
+        <a href="index.html" class="btn">Voltar para a Home</a>
+    </main>
+
+    <script>
+        // Captura a opção passada pela URL (entrega ou retirada)
+        const params = new URLSearchParams(window.location.search);
+        const tipo = params.get("recebimento");
+
+        // Define o texto exibido na página
+        const campo = document.getElementById("tipoEntrega");
+        if (tipo === "entrega") {
+            campo.innerText = "Entrega em domicílio";
+        } else if (tipo === "retirada") {
+            campo.innerText = "Retirada no local";
+        } else {
+            campo.innerText = "Não informado";
+        }
+    </script>
+
+    <footer>
+        <p>&copy; 2025 Minimercado Online - Todos os direitos reservados.</p>
+
+        <p>Developed by AngelicaCM6 tec.</p>
+        
+        <p>angel@gmail.com</p>
+    </footer>
+</body>
+</html>

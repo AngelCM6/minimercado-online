@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos - Minimercado</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nossos Produtos</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+
+    <main>
+        <h2>Frutas e Verduras</h2>
+        <ul>
+            <img src="assets/img/maca.jpg" alt="Maçã" width="50" style="vertical-align: middle;">
+            Maçã Argentina - R$ 5,00/kg
+               </ul>
+            
+            <img src="assets/img/banana.jpg" alt="banana" width="50" style="vertical-align: middle;">
+            Banana Prata - R$ 4,00/kg</li>
+        </ul>
+
+        <h2>Alimentos Não Perecíveis</h2>
+        <ul>
+            <img src="assets/img/feijao.jpg" alt="feijao" width="50" style="vertical-align: middle;">
+            
+            Feijão Carioca - R$ 8,00</li>
+        </ul>
+            
+            <img src="assets/img/arroz.jpg" alt="arroz" width="50" style="vertical-align: middle;">
+            Arroz Tio Joao - R$ 27,00
+            
+            
+        </ul>
+
+        <h2>Higiene e Limpeza</h2>
+        <ul>
+            <img src="assets/img/shampo.jpg" alt="shampo" width="50" style="vertical-align: middle;">
+            Shampoo Dove - R$ 15,00</li>
+        </ul>
+
+            <img src="assets/img/sabao em po.jpg" alt="shampo" width="50" style="vertical-align: middle;">
+             Sabão em Pó Omo  - R$ 12,00</li>
+        </ul>
+
+        <h2>Escolha a forma de recebimento</h2>
+        <form action="pedido.html" method="GET">
+            <label for="opcao-entrega">Selecione uma opção:</label><br>
+            <input type="radio" id="retirada" name="recebimento" value="retirada" required>
+            <label for="retirada">Retirada no local de 7 as 21h </label><br>
+            <input type="radio" id="entrega" name="recebimento" value="entrega">
+            <label for="entrega">Entrega em domicílio de 7 as 22h </label><br><br>
+
+            <button type="submit" class="btn">Finalizar Pedido</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Minimercado Online - Todos os direitos reservados.
+            
+            Developed by AngelicaCM6 tec.
+            
+            angel@gmail.com
+        </p>
+    </footer>
+</body>
+</html>
