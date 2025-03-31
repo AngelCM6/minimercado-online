@@ -9,7 +9,7 @@ Comodidade que você merece - Receba suas compras diretinho na sua porta, no dia
 Ofertas que alegram o bolso - Fique de olho nas nossas promoções exclusivas online! Preços especiais, descontos e combos que vão te fazer economizar sem abrir mão da qualidade.
 Um toque de cuidado - A gente prepara seu pedido com o maior carinho, escolhendo os melhores produtos e embalando tudo com atenção pra que chegue impecável até você.
 
-Sobre o mercadinho, os objetivos são:
+Sobre o mercadinho, os objetivos prezam em:
 Estabelecer uma presença online, tornando o minimercado acessível aos clientes pela internet;
 Aumentar as vendas e a receita, gerando um novo canal de vendas que complemente ou impulsione o faturamento do negócio;
 Melhorar a experiência do cliente, oferecendo uma forma conveniente e prática para os clientes fazerem suas compras, com mais opções e informações;
